@@ -54,6 +54,7 @@ pnpm add @sse-editor/editor.js
 Or include it via CDN:
 
 ```html
+<script src="https://cdn.jsdelivr.net/npm/@sse-editor/editor.js@latest"></script>
 ```
 
 2. **Initialize SSE Editor.js**:
